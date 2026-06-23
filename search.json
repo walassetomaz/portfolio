@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Transformando dados em decisões estratégicas",
@@ -21,11 +14,11 @@
     "text": "Sobre Mim\nSou economista especializado em econometria e métodos quantitativos, com mais de 5 anos de experiência em multinacional. Conecto o rigor da inferência causal à agilidade do Business Intelligence (BI) para responder não apenas o que aconteceu, mas o “porquê”. Meu foco é isolar o real impacto de ações estratégicas, transformando dados complexos em decisões de negócio baseadas em causa e efeito, e não em meras correlações.\n\n\n\n\n\nMestrado Profissional  Economia  Atuação focada em finanças e análise de séries temporais, com ênfase em técnicas de forecasting.\n\n\nBacharelado  Ciências Econômicas  Forte atuação em métodos quantitativos, com foco na avaliação de impacto ex-ante de políticas públicas.\n\n\n\n\n\n\n\nExperiência Profissional  +5 Anos  Mais de cinco anos de experiência, combinando vivência acadêmica e atuação em multinacional.\n\n\n\nFrameworks Utilizados"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Bem-vindo ao meu Portfólio em Dados",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Nesta seção, você encontrará os projetos e estudos de caso desenvolvidos para resolver problemas de negócios reais utilizando dados. Mais do que aplicar algoritmos, o objetivo aqui é traduzir dados brutos em decisões estratégicas fundamentadas.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 22, 2026\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nJun 19, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -33,5 +26,12 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Bem-vindo ao meu Portfólio em Dados",
+    "section": "",
+    "text": "Nesta seção, você encontrará os projetos e estudos de caso desenvolvidos para resolver problemas de negócios reais utilizando dados. Mais do que aplicar algoritmos, o objetivo aqui é traduzir dados brutos em decisões estratégicas fundamentadas.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 22, 2026\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nJun 19, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
