@@ -1,0 +1,20 @@
+---
+title: "[Bem-vindo ao meu [Portfólio em Dados]{style='color: var(--bs-primary);'}]{style='font-size: 70px; line-height: 1.0; text-align: center; display: block;'}"
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: article
+title-block-banner: false
+---
+
+<!-- Introdução --->
+::: {.text-center}
+Nesta seção, você encontrará os **projetos e estudos de caso desenvolvidos para resolver problemas de negócios reais utilizando dados**. Mais do que aplicar algoritmos, o objetivo aqui é traduzir dados brutos em decisões estratégicas fundamentadas.
+
+<i class="bi bi-arrow-down"></i>
+:::

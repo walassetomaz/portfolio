@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Walasse Tomaz"
+  favicon: "./src/images/walasse-logo-color.svg"
+  navbar:
+    background: primary
+    right: 
+      - href: index.qmd
+        text: Início
+      - href: about.qmd
+        text: Sobre
+      - href: blog.qmd
+        text: Projetos
+      - icon: github
+        href: https://github.com/walassetomaz
+      - icon: linkedin
+        href: https://www.linkedin.com/in/walasse-tomaz
+      - icon: envelope
+        href: mailto:walasse.tomaz@gmail.com
+
+  page-footer:
+    center: "Copyright 2026, Walasse Tomaz"
+    right: 
+      - href: https://github.com
+        icon: github
+      - href: https://linkedin.com
+        icon: linkedin
+      - href: mailto:walasse.tomaz@gmail.com
+        icon: envelope
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+
+execute:
+  freeze: auto

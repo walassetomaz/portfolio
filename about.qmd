@@ -1,0 +1,108 @@
+---
+title: "Walasse Tomaz <br> [Econometrista e Analista de Dados]{style='color: var(--bs-gray-600); font-size: 20px;'}"
+format: 
+    html:
+        toc: false
+about:
+    template: jolla
+    image: "./src/images/foto-perfil.jpeg"
+    image-shape: round
+    links: 
+      - icon: github
+        text: Github
+        href: https://github.com/walassetomaz
+      - icon: linkedin
+        text: Linkedin
+        href: https://www.linkedin.com/in/walasse-tomaz
+---
+
+<!-- Sobre Mim --->
+::: {.text-center .py-4 .pb-2}
+[**Sobre Mim**]{style='font-size: 25px;'}
+
+Sou economista especializado em econometria e métodos quantitativos, com mais de 5 anos de experiência em multinacional. Conecto o rigor da inferência causal à agilidade do Business Intelligence (BI) para responder não apenas o que aconteceu, mas o "porquê". Meu foco é isolar o real impacto de ações estratégicas, transformando dados complexos em decisões de negócio baseadas em causa e efeito, e não em meras correlações.
+:::
+
+<!-- Formações --->
+::: {.column-body .py-4}
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+[[**Mestrado Profissional**]{style='color: var(--bs-gray-600); font-size: 20px;'} <br> [**Economia**]{style='font-size: 25px;'}]{style='line-height: 0.5;'} <br> Atuação focada em finanças e análise de **séries temporais**, com ênfase em técnicas de forecasting.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[[**Bacharelado**]{style='color: var(--bs-gray-600); font-size: 20px;'} <br> [**Ciências Econômicas**]{style='font-size: 25px;'}]{style='line-height: 0.5;'} <br> Forte atuação em **métodos quantitativos**, com foco na avaliação de impacto ex-ante de políticas públicas.
+:::
+
+:::
+:::
+
+<!-- Experiência --->
+::: {.column-body .py-2}
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+[[**Experiência Profissional**]{style='color: var(--bs-gray-600); font-size: 20px;'} <br> [**+5 Anos**]{style='font-size: 60px;color: var(--bs-primary);'}]{style='line-height: 1.0;'} <br> Mais de cinco anos de experiência, combinando vivência acadêmica e atuação em multinacional.
+:::
+
+<!-- Frameworks --->
+::: {.g-col-12 .g-col-md-8}
+[**Frameworks Utilizados**]{style='color: var(--bs-gray-600); font-size: 20px;'} <br> 
+
+::: {.grid .row-gap-1 .col-gap-0}
+
+<!-- Python -->
+::: {.g-col-2}
+![](./src/images/pandas-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+::: {.g-col-2}
+![](./src/images/numpy-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+::: {.g-col-2}
+![](./src/images/statsmodels-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+::: {.g-col-2}
+![](./src/images/scikitlearn-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+::: {.g-col-2}
+![](./src/images/matplotlib-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+::: {.g-col-2}
+![](./src/images/tensorflow-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+<!-- R -->
+::: {.g-col-2}
+![](./src/images/dplyr-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+::: {.g-col-2}
+![](./src/images/ggplot2-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+::: {.g-col-2}
+![](./src/images/bvars-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+::: {.g-col-2}
+![](./src/images/timetk-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+::: {.g-col-2}
+![](./src/images/rgame-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+::: {.g-col-2}
+![](./src/images/shiny-simbolo.png){style="height: 50px; object-fit: contain;"}
+:::
+
+:::
+
+:::
+:::

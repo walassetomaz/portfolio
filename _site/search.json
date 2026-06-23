@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Transformando dados em decisões estratégicas",
+    "section": "",
+    "text": "Atuando na aplicação de inferência causal para ir além das relações superficiais e responder o que realmente move os resultados de um negócio. Com foco em não é apenas descrever o passado, mas isolar o verdadeiro impacto — respondendo a perguntas críticas com seu efeito real.\n\n\n\n\n\n\nWalasse Tomaz  Econometrista e Analista de Dados\nO verdadeiro desafio no mercado atual não é acumular dados, mas transformá-los em uma direção segura, superando relatórios superficiais que apenas ilustram o passado ou sugerem falsas relações. A resposta para essa dor está na união entre o Business Intelligence e a Econometria, mapeando as reais relações de causa e efeito para eliminar o “achismo” e guiar as decisões com base no real impacto.\nSobre Mim Download CV\n\n\n\n\nO que você encotrará\nEspaço de projetos focado em transformar dados complexos em decisões estratégicas e automações. Minha atuação une ciência de dados, modelagem econômica e desenvolvimento técnico. Navegue pelos cards abaixo para explorar meus trabalhos práticos.\n\n\n\n Econometria  Modelagem estatística e inferência causal para tomada de decisão.  Ver Projetos\n\n\n Otimização  Modelos matemáticos e algoritmos para alocação de recursos.  Ver Projetos\n\n\n Analytics  Dashboards e análise visual de dados para gerar insights.  Ver Projetos\n\n\n Engenharia  Pipelines para tratamento de grandes volumes de dados.  Ver Projetos\n\n\n Teste A/B  Experimentação e validação de hipóteses de produto.  Ver Projetos\n\n\n Programação  Desenvolvimento de scripts e ferramentas em código limpo.  Ver Projetos\n\n\n Finanças  Modelagem quantitativa, gestão de risco e análise de ativos.  Ver Projetos\n\n\n Macroeconomia  Análise de cenários econômicos globais e séries temporais.  Ver Projetos\n\n\n\nAcesse meu repositório completo de projetos e explore os códigos, bases de dados e relatórios técnicos de cada solução desenvolvida.\nVer Portfólio Completo\n\n\n\n\nAlgumas das tecnologias utilizadas"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Walasse Tomaz  Econometrista e Analista de Dados",
+    "section": "",
+    "text": "Sobre Mim\nSou economista especializado em econometria e métodos quantitativos, com mais de 5 anos de experiência em multinacional. Conecto o rigor da inferência causal à agilidade do Business Intelligence (BI) para responder não apenas o que aconteceu, mas o “porquê”. Meu foco é isolar o real impacto de ações estratégicas, transformando dados complexos em decisões de negócio baseadas em causa e efeito, e não em meras correlações.\n\n\n\n\n\nMestrado Profissional  Economia  Atuação focada em finanças e análise de séries temporais, com ênfase em técnicas de forecasting.\n\n\nBacharelado  Ciências Econômicas  Forte atuação em métodos quantitativos, com foco na avaliação de impacto ex-ante de políticas públicas.\n\n\n\n\n\n\n\nExperiência Profissional  +5 Anos  Mais de cinco anos de experiência, combinando vivência acadêmica e atuação em multinacional.\n\n\n\nFrameworks Utilizados"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Bem-vindo ao meu Portfólio em Dados",
+    "section": "",
+    "text": "Nesta seção, você encontrará os projetos e estudos de caso desenvolvidos para resolver problemas de negócios reais utilizando dados. Mais do que aplicar algoritmos, o objetivo aqui é traduzir dados brutos em decisões estratégicas fundamentadas.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 22, 2026\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nJun 19, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]
